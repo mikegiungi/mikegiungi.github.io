@@ -1,0 +1,12 @@
+h1 {color: darkgoldenrod; font-size: 18pt;}
+p {color: darkgoldenrod; font-weight: bold;}
+body { background: darkblue; 
+		color: black;
+		font-size: 18pt;
+			font-family: 'Ariel';
+	 }
+nav a { display: inline-block; 
+			border: 2px white;
+			padding: 10px;
+		margin: 5px;
+		background: red}
